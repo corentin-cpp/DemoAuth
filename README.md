@@ -10,7 +10,7 @@ Des fonctionnalités ont été supprimés et d'autres ajouter. Le projet est un 
 - Créer un projet ASP.NET 6 MVC avec une authentification de compte individuel
 
 ### Ajouter les migrations 
-- Ouvrez le fichiernappsettings.json et modifier la Chaine de connection par défault par la chaine de connection souhaité afin de la relié a votre base de donnnée
+- Ouvrez le fichier appsettings.json et modifier la Chaine de connection par défault par la chaine de connection souhaité afin de la relié a votre base de donnnée
 - Dans la Console de Gestionnaire de package entrer la commande suivante `update-database`
 - Une fois la création de la base de donnée réalisé vous pouvez aller vérifier que les tables ont correctement été ajouté
 
