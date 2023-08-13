@@ -11,7 +11,7 @@ Des fonctionnalités ont été supprimés et d'autres ajouter. Le projet est un 
 
 ### Ajouter les migrations 
 - Ouvrez le fichier appsettings.json et modifier la Chaine de connection par défault par la chaine de connection souhaité afin de la relié a votre base de donnnée
-- Dans la Console de Gestionnaire de package entrer la commande suivante `update-database`
+- Dans la Console de Gestionnaire de package entrer la commande suivante `update-database`; Exemple : `Server=(localdb)\\mssqllocaldb;Database=MyDB;Trusted_Connection=True;MultipleActiveResultSets=true`
 - Une fois la création de la base de donnée réalisé vous pouvez aller vérifier que les tables ont correctement été ajouté
 
 ### Generation des pages Razor Identity
